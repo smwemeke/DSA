@@ -20,6 +20,7 @@ public class SearchInStrings {
             return false;
         }
         for (char ch : str.toCharArray()){
+            if (ch == target)
                 return true;
             }
         return false;
