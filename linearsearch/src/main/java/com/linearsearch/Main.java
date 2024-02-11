@@ -52,6 +52,7 @@ public class Main {
                 return true;
             }
         }
+        // return false if element searched and not found
         return false;
     }
 }
