@@ -2,6 +2,7 @@ package com.linearsearch;
 
 // Leetcode Question: Given an array nums of integers, return how many of them contain an even number of digits
 // (Find number of numbers that have even number of digits)
+
 public class EvenDigits {
     public static void main(String[] args) {
         int [] nums = {12,345,2,6,7896, 4523};
