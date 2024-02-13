@@ -5,3 +5,15 @@ e
 5linearsearch/src/main/java/com/linearsearch/Main.java,8\7\87fc86aabd2b651903ad9183113f9bcc9b8f4659
 p
 @linearsearch/src/main/java/com/linearsearch/SearchInStrings.java,8\2\8214b1ec7b4e22cc9a03f83c2841fbfaea0574a0
+n
+>linearsearch/src/main/java/com/linearsearch/SearchInRange.java,2\a\2a258e807a9cf06c31ee788bb645aafb59b8adda
+h
+8linearsearch/src/main/java/com/linearsearch/FindMin.java,a\6\a6c4e45c8adb0e0d09f1f958354147b8536625a4
+n
+>linearsearch/src/main/java/com/linearsearch/FindMinAndMax.java,a\c\ac10e6f77376cd58de7338528606ac18b64c6aab
+p
+@linearsearch/src/main/java/com/linearsearch/SearchIn2DArray.java,3\8\380c2d3272cc986557b9d160f6a69e754f3915a4
+k
+;linearsearch/src/main/java/com/linearsearch/EvenDigits.java,8\7\8758d0c371baf9950a4e50d6151db0fd6189f2d5
+C
+LearnArrays/pom.xml,e\9\e960c0e0ab1300f363f163882393612f3ac13b66

@@ -1,3 +1,4 @@
 
-_
-java:S2094"BRemove this empty class, write its code or make it an "interface".(Ìè«Ó8‘®È³Ù1
+L	java:S106	"+Replace this use of System.out by a logger.(æ„ÜÇùÿÿÿÿ8Òûà»Ù1
+L	java:S106"+Replace this use of System.out by a logger.(÷Ç–Óùÿÿÿÿ8Óûà»Ù1
+G	java:S106"+Replace this use of System.out by a logger.(—±ã¶8Óûà»Ù1
