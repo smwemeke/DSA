@@ -6,7 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="LearnArrays" />
+        <module name="LinkedLists" />
+        <module name="LeetCodeQuestions" />
         <module name="linearsearch" />
+        <module name="DSADiscussions1" />
       </profile>
     </annotationProcessing>
   </component>

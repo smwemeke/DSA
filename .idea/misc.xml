@@ -6,6 +6,10 @@
       <list>
         <option value="$PROJECT_DIR$/linearsearch/pom.xml" />
         <option value="$PROJECT_DIR$/LearnArrays/pom.xml" />
+        <option value="$PROJECT_DIR$/LinkedLists/pom.xml" />
+        <option value="$PROJECT_DIR$/LeetCode/pom.xml" />
+        <option value="$PROJECT_DIR$/LeetCodeQuestions/pom.xml" />
+        <option value="$PROJECT_DIR$/DSADiscussions1/pom.xml" />
       </list>
     </option>
     <option name="workspaceImportForciblyTurnedOn" value="true" />
