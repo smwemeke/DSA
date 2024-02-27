@@ -30,6 +30,28 @@ public class LL {
         }
 
     }
+
+    // insert element in between nodes
+
+    void insert(int val, int index){
+        if(index == 0){
+            insertFirst(val);
+        }
+        else if (index == size){
+            insertLast(val);
+        }
+        else {
+            Node temp = head;
+            for(int i=1; i<index;i++){
+                temp = temp.next;
+            }
+            Node n = new Node(val, temp.next);
+            Node last = temp.next;
+            temp.next = n;
+            n.next = last;
+        }
+    }
+
     public void display(){
         Node temp = head;
         while(temp != null){
@@ -41,6 +63,8 @@ public class LL {
      private class Node{
          private int value;
          private Node next;
+
+         public Node(){}
 
          public Node(int value) {
              this.value = value;

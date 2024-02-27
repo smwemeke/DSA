@@ -49,3 +49,7 @@ g
 7DSADiscussions1/src/main/java/com/linkedLists/Node.java,4\1\41db2d9656fdd17bf91f8fed6446f004f5bdab07
 z
 JLeetCodeQuestions/src/main/java/com/leetCodeArraysQns/DuplicateNumber.java,d\a\da075f44a334f7672ad02a004705428eea7301bd
+k
+;DSADiscussions1/src/main/java/com/linkedLists/MainSoln.java,6\3\63a18abcffcac3cc8bf3bd94004b0e0b94e0e00b
+v
+FLeetCodeQuestions/src/main/java/com/leetCodeArraysQns/WordPattern.java,7\f\7f72f7267b8a71a2af727502022c74a186d69229

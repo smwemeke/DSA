@@ -28,7 +28,7 @@ public class Node {
         String result = data;
         Node current = this.next;
         while(current != null){
-            result += current.data;
+            result += " "+ current.data;
             current = current.next;
         }
         return result;
