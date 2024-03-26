@@ -1,4 +1,5 @@
 package com.leetCodeQns;
+//1550. Three Consecutive Odds
 
 public class ThreeConsectutiveOdds {
 

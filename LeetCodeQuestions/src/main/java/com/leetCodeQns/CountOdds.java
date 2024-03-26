@@ -1,11 +1,11 @@
 package com.leetCodeQns;
+//1523. Count Odd Numbers in an Interval Range
 
 public class CountOdds {
 
     public static void main(String[] args) {
-//         int low = 3;
-//         int high = 7;
-        System.out.println(countOdds(8,10));
+
+        System.out.println(countOdds(0,1000000000));
     }
 
     public static int countOdds(int low, int high){

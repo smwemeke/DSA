@@ -45,3 +45,5 @@ z
 JLeetCodeQuestions/src/main/java/com/leetCodeQns/ThreeConsectutiveOdds.java,4\9\49073bd9b45c029d47b8aa9c6d249ba1cea54afd
 n
 >LeetCodeQuestions/src/main/java/com/leetCodeQns/CountOdds.java,3\5\35b01434dac35ec3dd523aedb70f56ba93046b41
+k
+;LeetCodeQuestions/src/main/java/com/leetCodeQns/TwoSum.java,c\3\c341a63c187c49b7a4e4d88e54a723b2c19899c7
