@@ -1,9 +1,0 @@
-
-{
-java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ8°Æ€ÿÛ1
-{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(àïöˆÿÿÿÿÿ8³Æ€ÿÛ1
-Z
-java:S1854	"8Remove this useless assignment to local variable "list".(çâîÀıÿÿÿÿ8¼Æ€ÿÛ1
-K
-java:S1481	")Remove this unused "list" local variable.(çâîÀıÿÿÿÿ8ÂÆ€ÿÛ1
-G	java:S106"+Replace this use of System.out by a logger.(ßü«ò8ÇÆ€ÿÛ1

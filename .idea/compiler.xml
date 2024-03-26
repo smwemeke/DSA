@@ -9,8 +9,8 @@
         <module name="LearnArrays" />
         <module name="LinkedLists" />
         <module name="LeetCodeQuestions" />
+        <module name="DSARevision" />
         <module name="linearsearch" />
-        <module name="DSADiscussions1" />
       </profile>
     </annotationProcessing>
   </component>
