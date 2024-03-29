@@ -1,0 +1,22 @@
+
+i
+java:S11921"GDefine a constant instead of duplicating this literal "%.6f%n" 3 times.(¹âäóÿÿÿÿÿ8í±ëœè1
+7
+java:S1220""Move this file to a named package.8í±ëœè1
+R
+java:S1854"5Remove this useless assignment to local variable "n".(·Íå‹8­²ëœè1
+C
+java:S1481"&Remove this unused "n" local variable.(·Íå‹8±²ëœè1
+o
+java:S6204"RReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()'(â¥8±²ëœè1
+V
+java:S1118":Add a private constructor to hide the implicit public one.(ŒÅüg8³²ëœè1
+_
+java:S18544"=Remove this useless assignment to local variable "countZero".(„»–áıÿÿÿÿ8´²ëœè1
+^
+java:S18542"ARemove this useless assignment to local variable "countNegative".(Éœ¶™8´²ëœè1
+^
+java:S18540"ARemove this useless assignment to local variable "countPositive".(‡²àª8´²ëœè1
+L	java:S1061"+Replace this use of System.out by a logger.(¹âäóÿÿÿÿÿ8µ²ëœè1
+F	java:S1063"+Replace this use of System.out by a logger.(ßy8¶²ëœè1
+G	java:S1065"+Replace this use of System.out by a logger.(»Õ»8·²ëœè1
