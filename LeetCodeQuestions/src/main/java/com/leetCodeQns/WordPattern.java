@@ -5,7 +5,6 @@ package com.leetCodeQns;
 import java.util.HashMap;
 import java.util.Map;
 
-
 public class WordPattern {
 
     public static void main(String[] args) {
@@ -22,7 +21,6 @@ public class WordPattern {
         for(int i=0; i<len; i++){
             chartoString.put(pattern.charAt(i), words[i]);
         }
-
         Map<String, Character> stringToChart = new HashMap<>();
         for(int i=0; i<len; i++){
             stringToChart.put(words[i], pattern.charAt(i));

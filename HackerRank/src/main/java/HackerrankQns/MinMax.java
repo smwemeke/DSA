@@ -22,25 +22,22 @@ public class MinMax {
         bufferedReader.close();
     }
 }
-class  Solution{
+    class  Solution{
 
-public static void miniMaxSum(List<Integer> arr) {
-    Integer [] num = arr.toArray(new Integer[0]);
+            public static void miniMaxSum(List<Integer> arr) {
+                Integer [] num = arr.toArray(new Integer[0]);
 
-    Arrays.sort(num);
+                     Arrays.sort(num);
+                     long minSum =0;
+                     long maxSum = 0;
+                     int n = num.length;
 
-    long minSum = 0;
-    long maxSum = 0;
-    int n = num.length;
-
-    for(int i=0; i<n-1;i++){
-        minSum += num[i];
-
-    }
-    for (int i=1; i<=n-1;i++){
-        maxSum += num[i];
-
-    }
-    System.out.println(minSum  + " " +   maxSum);
+                     for(int i =0; i<n-1; i++){
+                         minSum += num[i];
+                     }
+                     for(int i=1; i<=n-1;i++){
+                         maxSum +=num[i];
+                     }
+                System.out.println("Minimum Sum:" + minSum + " " + "Maximum Sum:" + maxSum);
 }
 }

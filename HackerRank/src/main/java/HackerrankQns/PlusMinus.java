@@ -30,30 +30,26 @@ class Result {
      *
      * The function accepts INTEGER_ARRAY arr as parameter.
      */
-
     public static void plusMinus(List<Integer> arr) {
         // Write your code here
         int countPositive = 0;
         int countNegative = 0;
-        int  countZero =0;
-
-        for (int i : arr){
-            if(i < 0){
-                 countNegative++;
-            } else if (i>0) {
-                countPositive++;
-            }
-            else {
-                countZero++;
-            }
+        int countZero = 0;
+    for (int i : arr){
+        if(i<0){
+            countNegative++;
         }
-        double ratioPositive =  (double) countPositive++ / arr.size();
-        System.out.printf("%.6f%n", ratioPositive);
-        double ratioNegative = (double)countNegative++ / arr.size();
-        System.out.printf("%.6f%n", ratioNegative);
-        double ratioZero =  (double) countZero++ / arr.size();
+        else if (i>0){
+            countPositive++;
+        }
+        else
+            countZero++;
+    }
+    double ratioPos = (double) countPositive / arr.size();
+        System.out.printf("%.6f%n", ratioPos);
+    double ratioNeg = (double) countNegative / arr.size();
+        System.out.printf("%.6f%n", ratioNeg);
+    double ratioZero = (double) countZero / arr.size();
         System.out.printf("%.6f%n", ratioZero);
     }
-
-
 }
