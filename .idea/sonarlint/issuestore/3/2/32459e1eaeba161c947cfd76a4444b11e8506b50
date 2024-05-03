@@ -1,0 +1,8 @@
+
+y
+java:S1854"6Remove this useless assignment to local variable "in".(äÆ¾Ó8õ¾ôƒô1J$2ff391ce-1bea-40a4-ab5b-3f1bbe88cf95
+j
+java:S1481"'Remove this unused "in" local variable.(äÆ¾Ó8ù¾ôƒô1J$f96bb5af-3566-48a7-a30d-817beb7f1846
+~	java:S125
+"<This block of commented-out lines of code should be removed.(ã×¨…8û¾ôƒô1J$3704f2f6-1978-4b96-990e-a08eeab2c02d
+m	java:S106"+Replace this use of System.out by a logger.(†™ñ‹8ý¾ôƒô1J$0d15fde0-53b6-4843-8a83-e424a52bfca9

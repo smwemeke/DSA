@@ -1,0 +1,12 @@
+
+¡	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(à¿Çıÿÿÿÿ8“‰ñÅî1J$84d03006-ad37-47e2-8739-e4de4a28ea31
+”
+java:S2095"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(ğ¢Å–şÿÿÿÿ8§‰ñÅî1J$12c90543-f772-482b-a029-00c267c710fc
+x
+java:S1854"5Remove this useless assignment to local variable "n".(·Íå‹8ª‰ñÅî1J$a2fde177-149e-413a-b481-90551835a7d9
+i
+java:S1481"&Remove this unused "n" local variable.(·Íå‹8¯‰ñÅî1J$ac58a550-c4a6-4382-afac-b01e39fb7bfa
+½
+java:S6204"zReplace this usage of 'Stream.collect(Collectors.toList())' with 'Stream.toList()' and ensure that the list is unmodified.(â¥8°‰ñÅî1J$9226ba43-1ca2-444b-9e70-5f6e1675ef65
+|
+java:S1118":Add a private constructor to hide the implicit public one.(ŒÅüg8´‰ñÅî1J$91ae32a0-76c9-4eda-9deb-25ef3d4f4ccb
